@@ -1,0 +1,10 @@
+# Bipity Bopity Cakes
+
+> Custom cake and cupcake bakery run by Amanda Costa, serving Lodi, Stockton, Galt, and Lockeford, CA, and surrounding San Joaquin County. Home-based, no public storefront; pickup and delivery arranged per order. No published menu, pricing, or hours yet — contact directly for current details.
+
+- [About](https://www.bipitybopitycakes.com/#about): Background on Amanda and the bakery's style.
+- [Gallery](https://www.bipitybopitycakes.com/#gallery): Photos of custom cakes and cupcakes (birthdays, weddings/engagements, gender reveals, novelty themes).
+- [FAQ](https://www.bipitybopitycakes.com/#faq): Answers to common questions about service area, delivery, lead times, and dietary options.
+- [Contact](https://www.bipitybopitycakes.com/#contact): Phone, email, Instagram, and Facebook.
+
+Contact: (209) 981-3699 (call or text) · bipitybopitycakes@gmail.com

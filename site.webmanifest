@@ -1,0 +1,26 @@
+{
+  "name": "Bipity Bopity Cakes",
+  "short_name": "Bipity Bopity",
+  "description": "Custom cake and cupcake bakery serving Lodi, Stockton, Galt, and Lockeford, CA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF6F2",
+  "theme_color": "#FDF6F2",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-master-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
